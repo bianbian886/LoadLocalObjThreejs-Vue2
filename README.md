@@ -2,7 +2,7 @@
 
 A basic example to load and show 3D object files (.obj) to scene by local
 
-
+change threejs objloader by Fetech api in XMLHttpRequest
 
 ## Requirements
 
